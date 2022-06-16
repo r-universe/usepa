@@ -1,0 +1,22 @@
+[
+  {
+    "package": "httk",
+    "oncran": true
+  },
+  {
+    "package": "pTITAN2",
+    "oncran": true
+  },
+  {
+    "package": "RAQSAPI",
+    "oncran": true
+  },
+  {
+    "package": "spsurvey",
+    "oncran": true
+  },
+  {
+    "package": "tcpl",
+    "oncran": true
+  }
+]
