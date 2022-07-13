@@ -3,6 +3,12 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "httk"]
+	path = httk
+	url = https://github.com/usepa/comptox-expocast-httk
+	shallow = true
+	subdir = httk
+	registered = true
 [submodule "pTITAN2"]
 	path = pTITAN2
 	url = https://github.com/usepa/ptitan2

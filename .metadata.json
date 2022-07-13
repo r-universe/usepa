@@ -1,5 +1,9 @@
 [
   {
+    "package": "httk",
+    "oncran": true
+  },
+  {
     "package": "pTITAN2",
     "oncran": true
   },
