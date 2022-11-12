@@ -19,6 +19,11 @@
 	url = https://github.com/usepa/raqsapi
 	shallow = true
 	registered = true
+[submodule "spmodel"]
+	path = spmodel
+	url = https://github.com/usepa/spmodel
+	shallow = true
+	registered = true
 [submodule "spsurvey"]
 	path = spsurvey
 	url = https://github.com/usepa/spsurvey
