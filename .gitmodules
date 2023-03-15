@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RAQSAPI"]
-	path = RAQSAPI
-	url = https://github.com/usepa/raqsapi
-	shallow = true
-	registered = true
 [submodule "httk"]
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
@@ -19,9 +14,9 @@
 	url = https://github.com/usepa/ptitan2
 	shallow = true
 	registered = true
-[submodule "tcpl"]
-	path = tcpl
-	url = https://github.com/usepa/comptox-toxcast-tcpl
+[submodule "RAQSAPI"]
+	path = RAQSAPI
+	url = https://github.com/usepa/raqsapi
 	shallow = true
 	registered = true
 [submodule "spmodel"]
@@ -32,5 +27,10 @@
 [submodule "spsurvey"]
 	path = spsurvey
 	url = https://github.com/usepa/spsurvey
+	shallow = true
+	registered = true
+[submodule "tcpl"]
+	path = tcpl
+	url = https://github.com/usepa/comptox-toxcast-tcpl
 	shallow = true
 	registered = true
