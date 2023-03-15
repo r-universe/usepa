@@ -1,5 +1,9 @@
 [
   {
+    "package": "RAQSAPI",
+    "oncran": true
+  },
+  {
     "package": "httk",
     "oncran": true
   },
@@ -8,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "RAQSAPI",
+    "package": "tcpl",
     "oncran": true
   },
   {
@@ -17,10 +21,6 @@
   },
   {
     "package": "spsurvey",
-    "oncran": true
-  },
-  {
-    "package": "tcpl",
     "oncran": true
   }
 ]
