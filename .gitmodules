@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RAQSAPI"]
+	path = RAQSAPI
+	url = https://github.com/usepa/raqsapi
 [submodule "httk"]
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
@@ -9,9 +12,6 @@
 [submodule "pTITAN2"]
 	path = pTITAN2
 	url = https://github.com/usepa/ptitan2
-[submodule "RAQSAPI"]
-	path = RAQSAPI
-	url = https://github.com/usepa/raqsapi
 [submodule "spmodel"]
 	path = spmodel
 	url = https://github.com/usepa/spmodel
