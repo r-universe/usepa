@@ -5,6 +5,9 @@
 [submodule "RAQSAPI"]
 	path = RAQSAPI
 	url = https://github.com/usepa/raqsapi
+[submodule "SSN2"]
+	path = SSN2
+	url = https://github.com/usepa/ssn2
 [submodule "httk"]
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
