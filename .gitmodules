@@ -12,6 +12,9 @@
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
 	subdir = httk
+[submodule "micromap"]
+	path = micromap
+	url = https://github.com/usepa/micromap
 [submodule "pTITAN2"]
 	path = pTITAN2
 	url = https://github.com/usepa/ptitan2
