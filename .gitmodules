@@ -11,6 +11,9 @@
 [submodule "ccdR"]
 	path = ccdR
 	url = https://github.com/usepa/ccdr
+[submodule "ctxR"]
+	path = ctxR
+	url = https://github.com/usepa/ctxr
 [submodule "httk"]
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
