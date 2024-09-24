@@ -36,3 +36,6 @@
 [submodule "tcpl"]
 	path = tcpl
 	url = https://github.com/usepa/comptox-toxcast-tcpl
+[submodule "tcplfit2"]
+	path = tcplfit2
+	url = https://github.com/usepa/comptox-toxcast-tcplfit2
