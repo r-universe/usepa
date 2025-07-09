@@ -17,10 +17,16 @@
 [submodule "ctxR"]
 	path = ctxR
 	url = https://github.com/usepa/ctxr
+[submodule "elevatr"]
+	path = elevatr
+	url = https://github.com/usepa/elevatr
 [submodule "httk"]
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
 	subdir = httk
+[submodule "lakemorpho"]
+	path = lakemorpho
+	url = https://github.com/usepa/lakemorpho2
 [submodule "micromap"]
 	path = micromap
 	url = https://github.com/usepa/micromap
