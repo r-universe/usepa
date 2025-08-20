@@ -24,6 +24,12 @@
 	path = httk
 	url = https://github.com/usepa/comptox-expocast-httk
 	subdir = httk
+[submodule "invitroTKdata"]
+	path = invitroTKdata
+	url = https://github.com/usepa/invitrotkdata
+[submodule "invitroTKstats"]
+	path = invitroTKstats
+	url = https://github.com/usepa/invitrotkstats
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/usepa/lakemorpho2
