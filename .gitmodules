@@ -11,6 +11,9 @@
 [submodule "SSN2"]
 	path = SSN2
 	url = https://github.com/usepa/ssn2
+[submodule "StreamCatTools"]
+	path = StreamCatTools
+	url = https://github.com/usepa/streamcattools
 [submodule "ccdR"]
 	path = ccdR
 	url = https://github.com/usepa/ccdr
